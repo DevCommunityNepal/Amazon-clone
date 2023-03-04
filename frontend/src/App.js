@@ -1,7 +1,11 @@
 function App() {
   return (
-    <div className="App">
-      <h1>Let's Learn React</h1>
+    <div>
+      <header>
+        <a href="/"> Amazon </a>
+      </header>
+      <main>List Products</main>
+      <h2>Categories</h2>
     </div>
   );
 }
