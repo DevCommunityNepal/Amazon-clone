@@ -39,6 +39,6 @@ header a {
 }
 
 .product-info {
-  padding: 1 rem;
-  font: bold;
+  padding: 8px 11px;
+  font-weight: bold;
 }
