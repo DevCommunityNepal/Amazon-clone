@@ -16,3 +16,19 @@
 1. npm i react-router-dom
 2. create route for home screen
 3. create router for product screen
+
+# Day 4 -- Creating Backend for the App
+
+1. Install Node
+2. Install npm
+3. Install express and nodemon
+4. create data.js for the products
+5. create server.js for the routes
+
+# Day 5 -- Fetch Products from Backend
+
+1. set proxy in package.json
+2. npm install axios
+3. use state hook
+4. use effect hook
+5. use reducer hook
