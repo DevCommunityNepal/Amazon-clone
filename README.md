@@ -32,3 +32,9 @@
 3. use state hook
 4. use effect hook
 5. use reducer hook
+
+# Day 6 - Manage State by Reducer Hook
+
+1. define reducer
+2. update fetch data
+3. get state from usReducer
